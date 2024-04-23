@@ -1,3 +1,3 @@
 token:
-  secret: aks2djflkajs3askdjfhlakjsdnvowinvoihlbkjvbpw4orlakjlkvjno6wirg
+  secret: "{cipher}eabde5742e8c59a6afdb4d7a70fad1e293dd1dc8f3e1051caf5b0c537da7c251712ef85c5a6ee1caa2d1d186de07629537ca53e3ae602c8f6df455ff3c43d2b35e00caef9f577f376dd223a4ceab9741"
   expiration: 6000000
